@@ -11,9 +11,9 @@ Hi 👋, I'm Atharva Shinde
 ## 🧑‍💻 About Me
 
 - 🎓 Final-year *B.Tech CSE* student at *SBJITMR, Nagpur*
-- 🛠 Skilled in *Full-Stack Development, **AI/ML, and **Data Visualization*
-- 💼 Former Web Developer & Data Scientist Intern at *LGPS Hybrid Energy Pvt. Ltd*
-- 🌱 Currently diving deeper into *Model Deployment, **React Dashboards, and **Deep Learning*
+- 🛠 Skilled in *Full-Stack Development, AI/ML, and Data Visualization
+- 💼 Former Web Developer & Data Scientist Intern at LGPS Hybrid Energy Pvt. Ltd
+- 🌱 Currently diving deeper into *Model Deployment, React Dashboards, and **Deep Learning
 - ✍ Actively building dashboards, scalable APIs, and smart web apps
 - 📫 Reach me at: atharvashindevms@gmail.com
 - 💡 Fun Fact: I love mixing code with creativity to build smart & elegant products ✨
@@ -59,7 +59,7 @@ Hi 👋, I'm Atharva Shinde
 ## 🧪 Internship Experience
 
 *🌐 Web Developer / Data Scientist Intern – LGPS Hybrid Energy Pvt. Ltd (2024)*  
-- Developed an *interactive retail sales dashboard* using React & Chart.js 📊  
+- Developed an interactive retail sales dashboard using React & Chart.js 📊  
 - Designed RESTful APIs and worked on *data cleaning & visualization* for KPIs  
 - Combined web & data science skills to create end-to-end digital solutions
 
