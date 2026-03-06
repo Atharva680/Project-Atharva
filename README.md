@@ -1,104 +1,127 @@
-Hi 👋, I'm Atharva Shinde
-
-🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast | 💡 Data-Driven Innovator
-
-![Profile Views](https://komarev.com/ghpvc/?username=atharvashinde&color=blue)
-
----
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
-
-## 🧑‍💻 About Me
-
-- 🎓 Final-year *B.Tech CSE* student at *SBJITMR, Nagpur*
-- 🛠 Skilled in Full-Stack Development, AI/ML, and Data Visualization
-- 💼 Former Web Developer & Data Scientist Intern at LGPS Hybrid Energy Pvt. Ltd
-- 🌱 Currently diving deeper into *Model Deployment, React Dashboards, and **Deep Learning
-- ✍ Actively building dashboards, scalable APIs, and smart web apps
-- 📫 Reach me at: atharvashindevms@gmail.com
-- 💡 Fun Fact: I love mixing code with creativity to build smart & elegant products ✨
-
----
-
-## 🛠 Tech Stack & Tools
-
-### 👨‍💻 Programming Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![Python](https://img.shields.io/badge/-Python-blue)
-![C](https://img.shields.io/badge/-C-blue)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey)
-
-### 🧠 Data Science & AI  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
-![PyTorch](https://img.shields.io/badge/-PyTorch-red)
-![Pandas](https://img.shields.io/badge/-Pandas-purple)
-![NumPy](https://img.shields.io/badge/-NumPy-darkblue)
-![Power BI](https://img.shields.io/badge/-PowerBI-yellow)
-
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/-ReactJS-blue)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384)
-![HTML5](https://img.shields.io/badge/-HTML5-orange)
-![CSS3](https://img.shields.io/badge/-CSS3-blue)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E)
-
-### 🧩 Backend & Databases  
-![Node.js](https://img.shields.io/badge/-Node.js-green)
-![Express.js](https://img.shields.io/badge/-Express.js-black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-![MySQL](https://img.shields.io/badge/-MySQL-blue)
-
-### 🔧 Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-orange)
-![GitHub](https://img.shields.io/badge/-GitHub-black)
-![Excel](https://img.shields.io/badge/-MSExcel-217346)
-![Agile](https://img.shields.io/badge/-Agile-blue)
-
----
-
-## 🧪 Internship Experience
-
-*🌐 Web Developer / Data Scientist Intern – LGPS Hybrid Energy Pvt. Ltd (2024)*  
-- Developed an interactive retail sales dashboard using React & Chart.js 📊  
-- Designed RESTful APIs and worked on *data cleaning & visualization* for KPIs  
-- Combined web & data science skills to create end-to-end digital solutions
-
----
-
-## 🏆 Certifications
-
-- ✅ Basics of Python – *Infosys Springboard*  
-- ✅ PowerBI Dashboarding – *OfficeMaster*  
-- ✅ Innovation & IP Awareness – *Govt. of India DPIIT*  
-- ✅ Internship Certificate – *LGPS Pvt. Ltd*
-
----
-
-## 🔗 Leadership & Volunteering
-
-- 🎓 *T&P Coordinator Team Head* – SBJITMR  
-- 💡 *IEEE CS Event Head* – Event Planning & Execution  
-- 🤝 Forum Member – Tech Community Contributor
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">Hi 👋, I'm Atharva Vijay Shinde</h1>
+<h3 align="center">Generative AI & Data Engineer | AI Builder | RAG & LLM Systems</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvashinde&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvashinde&layout=compact&theme=radical" height="150"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=8A5CFF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;LLM+Application+Developer;RAG+Pipeline+Builder;Data+Engineering+Enthusiast;Building+AI+Systems+That+Scale" />
 </p>
 
 ---
 
-## 🔍 Let's Connect!
+# 👨‍💻 About Me
 
-📬 *Email:* atharvashindevms@gmail.com  
-🔗 *LinkedIn:* [Atharva Shinde](https://www.linkedin.com/in/atharva-shinde-7369b628a)  
-🌍 *Location:* Nagpur, Maharashtra, India  
-
-> “Code. Learn. Repeat. Design is intelligence made visible.”
+- 🔭 Working on **Generative AI & Data Engineering Systems**
+- 🤖 Building **RAG pipelines, AI Agents & LLM applications**
+- 📊 Experienced with **ETL pipelines & enterprise data systems**
+- ⚡ Automated **15+ enterprise workflows**
+- 📄 Processed **100K+ documents using AI pipelines**
 
 ---
 
-⭐ If you like what I do, don’t forget to star ⭐ some of my repositories!
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/atharva-shinde7474" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/atharvav680" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,sql,nodejs,react" />
+</p>
+
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### ⚙️ Backend & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker" />
+</p>
+
+### 📊 Data Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=atharvav680&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvav680&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvav680&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 Featured Projects
+
+🚀 **AI Resume Analyzer**  
+- NLP skill extraction system  
+- Built with **Python, spaCy, Flask**
+
+📚 **Enterprise RAG Knowledge Base**  
+- Semantic search across **100K+ documents**  
+- Built with **LangChain, FastAPI, PGVector**
+
+⚡ **AI Energy Optimization System**  
+- Reinforcement learning model for data center power usage  
+
+👁 **Emotion Detection AI System**  
+- Real-time face recognition & recommendation system  
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏆 IEEE Event Head – Organized **20+ tech events**  
+🎖 Department Award Trophy for leadership  
+📜 **3x Databricks Certified**  
+⚡ Built AI systems with **95–98% accuracy**
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=atharvav680&label=Profile%20Views&color=8A5CFF&style=flat"/>
+</p>
+
+---
+
+# 💡 Quote
+
+> "AI is not just about models — it's about building systems that solve real problems."
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
